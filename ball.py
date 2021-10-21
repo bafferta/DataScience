@@ -17,9 +17,9 @@ class Ball:
 
     def update(self):
         w, h = self.screen.get_size()
-        if self.x+self.vx < (self.CONST_BORDER + self.RADIUS) or self.x > w :
+        if self.x+self.vx < (self.CONST_BORDER + self.RADIUS) or self.x+self.vx > w :
             self.vx = -self.vx 
-        if self.y +self.vy < (self.CONST_BORDER + self.RADIUS) or self.y > (h-(self.CONST_BORDER + self.RADIUS)):
+        if self.y +self.vy < (self.CONST_BORDER + self.RADIUS) or self.y+self.vy > (h-(self.CONST_BORDER + self.RADIUS)):
             self.vy = -self.vy 
         self.show(self.bgcolor)
         self.x = self.x + self.vx

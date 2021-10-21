@@ -44,9 +44,9 @@ def main():
             if event.type == pygame.QUIT:
                 # change the value to False, to exit the main loop
                 running = False
-            pygame.display.update()
-            clock.tick(FPS)
-            b0.update()
+        pygame.display.update()
+        clock.tick(FPS)
+        b0.update()
 
 if __name__ == "__main__":
     main()
