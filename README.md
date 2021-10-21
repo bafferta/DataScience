@@ -7,4 +7,4 @@ Result :
 
 ## Lab 3 - Moving the ball
 Result :
-![Animation](https://user-images.githubusercontent.com/92478495/138275955-a85e7ff8-17a2-412d-9989-0edad6b7e1ff.gif)
+![Animation_final](https://user-images.githubusercontent.com/92478495/138277633-0d86057d-a8ab-4a33-8a01-0786729b82f0.gif)
