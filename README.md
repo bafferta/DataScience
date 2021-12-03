@@ -11,6 +11,7 @@ Result :
 
 ## Lab 4 : Create an AI agent that plays for as long as possible
 I used a simple SVR, with the basic hyperparameters. 
-Average time of a game : 5 mins (the game is not loosing most of the time, on the recorded game the time was more than 5 mins.
+
+**Average time of a game :** (65,62s + 57,54s + 57,16)/3 =  60,10 s
 Result :
 ![Animation_final](https://user-images.githubusercontent.com/92478495/144676801-faedc475-9c53-40ae-8626-3785cbdb3906.gif)
