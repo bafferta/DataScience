@@ -8,3 +8,7 @@ Result :
 ## Lab 3 - Moving the ball
 Result :
 ![Animation_final](https://user-images.githubusercontent.com/92478495/138277633-0d86057d-a8ab-4a33-8a01-0786729b82f0.gif)
+
+## Lab 4 : Create an AI agent that plays for as long as possible
+Result :
+![Animation_final](https://user-images.githubusercontent.com/92478495/144676801-faedc475-9c53-40ae-8626-3785cbdb3906.gif)
